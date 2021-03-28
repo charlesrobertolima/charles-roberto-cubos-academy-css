@@ -1,0 +1,21 @@
+body {
+    background-color:rgb(244, 244, 243);
+    font-family: 'Indie Flower', 'cursive';
+}
+
+h1 {
+    font-size: 42px;
+}
+
+.primeiro-p {
+    font-size: 27px;
+}
+
+.segundo-p {
+    font-size: 22px;
+}
+
+h5 {
+    font-size: 16px;
+}
+
